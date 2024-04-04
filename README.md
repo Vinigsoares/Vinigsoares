@@ -3,7 +3,7 @@
 <br>
 
 ## Minha experiência:
-📚 Sou formado em Engenharia de Materiais pela Universidade Federal Rural do Rio de Janeiro (UFRRJ)
+📚 Sou formado em Engenharia de Materiais pela Universidade Federal Rural do Rio de Janeiro (UFRRJ)<br>
 📚 Estou estudando Engenharia de Computação no CEFET-MG (Centro Federal de Educação Tecnológica) <br>
 📚 Atualmente faço estágio na Aperam South America onde estou adquirindo experiência em trabalhar com Python, e suas bibliotecas para Ciência de Dados e Machine Learning<br>
 
