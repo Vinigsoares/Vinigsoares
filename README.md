@@ -48,3 +48,12 @@ Olá! Meu nome é Vinícius, tenho 31 anos e sou estudante de Engenharia de Comp
 
 Quanto aos idiomas, sou fluente em português, possuo inglês intermediário e espanhol básico.
 
+## Produção de Conteúdo:
+
+🌐No LinkedIn, publico vários materiais gratuitos (como a transcrição em português de um curso gratuito oferecido pela DeepLearning.AI) para ajudar iniciantes e avançados na área<br>
+🌐No Medium, publico artigos sobre diversos assuntos (Gradiente Descendente, Classificação Hierárquica, Feature Selection, entre outros)<br>
+🌐No GitHub, publico vários projetos pessoais relacionados à ciência de dados e Machine Learning.<br>
+<br>
+
+Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes.
+
