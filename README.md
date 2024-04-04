@@ -27,10 +27,10 @@ Olá! Meu nome é Vinícius, tenho 31 anos e sou estudante de Engenharia de Comp
 
 ### Soft Skills:
 
-🌐Comunicativo
-🌐Aprendizado Constante
-🌐Trabalho em equipe
-🌐Proatividade
+🌐Comunicativo<br>
+🌐Aprendizado Constante<br>
+🌐Trabalho em equipe<br>
+🌐Proatividade<br>
 
 <br>
 
@@ -38,10 +38,10 @@ Olá! Meu nome é Vinícius, tenho 31 anos e sou estudante de Engenharia de Comp
 
 ## Projetos em que atuei:
 
-🌐Desenvolvimento de curvas padrão para equipamentos siderúgicos de recozimento inicial de aços inox e aços elétricos;
-🌐Análises de correlação visando identificar impactos no aquecimento e gasto de Gas Natural em processos siderúgicos;
-🌐Validação e carga de dataset em um código de modelagem matemática baseado em elementos finitos para predição de temperatura em pirômetros;
-🌐Identificação de variáveis impactantes em ocorrência de defeitos em lingotes da Aciaria utilizando Machine Learning
+🌐Desenvolvimento de curvas padrão para equipamentos siderúgicos de recozimento inicial de aços inox e aços elétricos;<br>
+🌐Análises de correlação visando identificar impactos no aquecimento e gasto de Gas Natural em processos siderúgicos;<br>
+🌐Validação e carga de dataset em um código de modelagem matemática baseado em elementos finitos para predição de temperatura em pirômetros;<br>
+🌐Identificação de variáveis impactantes em ocorrência de defeitos em lingotes da Aciaria utilizando Machine Learning<br>
 <br>
 
 <br>
