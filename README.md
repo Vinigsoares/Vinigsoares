@@ -11,7 +11,7 @@
 
 ## Sobre mim:
 
-Olá! Meu nome é Vinícius, tenho 31 anos e sou estudante de Engenharia de Computação no Centro Federal de Educação Tecnológica de Minas Gerais (média geral do curso: 89.24). Estou no momento adqruindo as skills necessárias para adentrar no mercado de dados.<br>
+Olá! Meu nome é Vinícius, tenho 31 anos e sou estudante de Engenharia de Computação no Centro Federal de Educação Tecnológica de Minas Gerais (média geral do curso: 89.24). Estou no momento adquirindo as skills necessárias para adentrar no mercado de dados.<br>
 
 ### Hard Skills:
 
